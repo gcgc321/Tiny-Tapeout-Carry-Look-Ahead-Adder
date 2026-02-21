@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The combinational circuit takes in three inputs A, B and Cin. And then the output is MSB, Cpropagate and Cgenerate. I will be adding more CLA blocks for 4 bit CLA. 
 
 ## How to test
 
-Explain how to use your project
 
 ## External hardware
 
