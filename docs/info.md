@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-The combinational circuit takes in three inputs A, B and Cin. And then the output is MSB, Cpropagate and Cgenerate. I will be adding more CLA blocks for 4 bit CLA. 
+The combinational circuit takes in 4 inputs from A as MSB and D as LSB. This is meant to display 1-9 on a seven segment display
 
 ## How to test
-
+Use dip switches to see numbers on display
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Dip switch and Seven Segment Display
